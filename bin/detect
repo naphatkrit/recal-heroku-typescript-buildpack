@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "ReCal Typescript Buildpack"
+exit 0
